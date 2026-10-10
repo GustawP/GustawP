@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gustaw 👋
 
-<!--
-**GustawP/GustawP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw, graduating February 2027.
 
-Here are some ideas to get you started:
+I like problems where the failure is reproducible: figuring out *why* something breaks, narrowing it down to one cause, and fixing it properly instead of working around it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Studying CS at PJATK (B.Eng., graduating Feb 2027)
+- Member of **ML Kolektyw**, a machine learning research group
+- Chair of the university Scholarship Committee
+- Looking for my first role in IT
+
+### Tech
+`C++` `Java` `Python` `Git` `Windows` `Linux`
+
+### Projects
+| Project | What it is |
+|---|---|
+| [Steganography](https://github.com/GustawP/Steganography) | Hiding and extracting data inside image files |
+| [MonkeyTyper](https://github.com/GustawP/MonkeyTyper) | A small game for practising fast typing |
+| [Ultimate-Tic-Tac-Toe](https://github.com/GustawP/Ultimate-Tic-Tac-Toe) | Implementation of the nested tic-tac-toe variant |
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/gustaw-pluta/
+- Email: contact@plutagustaw.dev
