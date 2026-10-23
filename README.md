@@ -23,7 +23,7 @@ A conversational chatbot on OpenAI and LangChain with a Streamlit UI, a FastAPI 
 | [TrainingCenterApi](https://github.com/GustawP/TrainingCenterApi) | REST API in ASP.NET Core for booking training rooms, with overlap detection and proper HTTP status codes |
 | [SolidRefactoring](https://github.com/GustawP/SolidRefactoring) | Refactoring a legacy C# service with dependency injection and the Adapter pattern, without breaking its public contract |
 | [dna-fasta-generator](https://github.com/GustawP/dna-fasta-generator) | Python tool generating DNA sequences in FASTA format, with complements, mRNA transcription and motif search |
-| [Steganography](https://github.com/GustawP/Steganography) | CLI tool that hides text in images, using a password-seeded PRNG to scatter the bits across the pixels |
+| [Steganography](https://github.com/GustawP/Steganography) | CLI tool that encrypts a message with a password (Argon2id, XChaCha20-Poly1305) and hides it in an image |
 | [MonkeyTyper](https://github.com/GustawP/MonkeyTyper) | Typing game in SFML, with difficulty that ramps on two axes at once |
 | [Ultimate-Tic-Tac-Toe](https://github.com/GustawP/Ultimate-Tic-Tac-Toe) | Swing implementation of the nested variant, with three computer difficulty levels |
 
